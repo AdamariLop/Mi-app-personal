@@ -1,0 +1,35 @@
+{
+    "nombreApp" : "Sobre mí",
+    "rutas" : [
+        {
+            "ruta" : "biografia",
+            "icon" : "account_box",
+            "texto": "Biografía"
+        },
+        {
+            "ruta" : "educacion",
+            "icon" : "work",
+            "texto": "Educación"
+        },
+        {
+            "ruta" : "hobbie",
+            "icon" : "insights",
+            "texto": "Hobbies"
+        },
+        {
+            "ruta" : "favoritos",
+            "icon" : "local_activity",
+            "texto": "Favoritos"
+        },
+        {
+            "ruta" : "lugares",
+            "icon" : "place",
+            "texto": "Lugares favoritos"
+        },
+        {
+            "ruta" : "calificacion",
+            "icon" : "add_task",
+            "texto": "Calificar app"
+        }
+    ]
+}
